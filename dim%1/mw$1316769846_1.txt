@@ -1,0 +1,12 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:city:C:-1226:74:-248:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:tel:T:-1041:67:-257:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:tel:T:-1021:67:-135:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:tel:T:-1122:45:-8:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:tel:T:-949:80:679:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:贝:贝:-1503:88:-810:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:折跃门:折:-1612:63:-719:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:潜影贝:潜:-599:105:-1527:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:折跃:折:-605:58:-833:6:false:0:gui.xaero_default:false:0:0:false

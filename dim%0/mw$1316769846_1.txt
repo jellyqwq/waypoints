@@ -1,0 +1,14 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:龙宫:龙:1296:84:-1608:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:全物种:全:-1556:141:-1068:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:蠹虫笼:蠹:1375:63:-2136:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:女巫塔:红石:-73:300:-2104:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:袭击塔:袭:-2136:221:696:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:工业村:工:553:70:-268:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:传送门:传:1491:81:1756:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:古城2:古:7111:-34:-3238:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:古城3:古:8172:-50:-3239:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:哨站:哨:-998:84:-1242:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:远古:远:2036:-49:-1452:10:true:0:gui.xaero_default:false:0:0:false
