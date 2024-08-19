@@ -1,0 +1,2 @@
+# waypoints
+Minecraft Server XaeroWaypoints
