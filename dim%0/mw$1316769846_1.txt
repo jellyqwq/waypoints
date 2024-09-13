@@ -1,7 +1,6 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
-waypoint:溺尸:溺:52:-25:-237:6:false:0:gui.xaero_default:false:0:0:false
 waypoint:繁华森林:繁:1495:70:165:9:false:0:gui.xaero_default:false:0:0:false
 waypoint:龙宫:龙:1296:84:-1608:3:false:0:gui.xaero_default:false:0:0:false
 waypoint:全物种:全:-1556:141:-1068:0:false:0:gui.xaero_default:false:0:0:false
